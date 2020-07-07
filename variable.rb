@@ -1,3 +1,3 @@
-# greeting = "Hello World"
+greetings = "Hello World"
 
 print "Hello World"
