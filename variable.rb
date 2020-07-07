@@ -1,3 +1,3 @@
-greetings = "Hello World"
+greeting = "Hello World"
 
 print "Hello World"
